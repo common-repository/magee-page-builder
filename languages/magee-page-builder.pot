@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Magee Page Builder\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-08 09:21+0800\n"
+"PO-Revision-Date: 2016-09-08 09:21+0800\n"
+"Last-Translator: shijun quan <support@mageewp.com>\n"
+"Language-Team: MageeWP\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.6.6\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/metaboxes/helpers/Mpb_Meta_Box_ajax.php:41
+msgid "Please Try Again"
+msgstr ""
+
+#: inc/metaboxes/helpers/Mpb_Meta_Box_ajax.php:125
+msgid "Remove Embed"
+msgstr ""
+
+#: inc/metaboxes/helpers/Mpb_Meta_Box_ajax.php:128
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: inc/metaboxes/helpers/Mpb_Meta_Box_field.php:454
+msgid "Add Group"
+msgstr ""
+
+#: inc/metaboxes/helpers/Mpb_Meta_Box_field.php:455
+msgid "Remove Group"
+msgstr ""
+
+#: inc/metaboxes/helpers/Mpb_Meta_Box_types.php:241
+msgid "Add Row"
+msgstr ""
+
+#: inc/metaboxes/helpers/Mpb_Meta_Box_types.php:297
+#: inc/metaboxes/helpers/Mpb_Meta_Box_types.php:719
+#: inc/metaboxes/helpers/Mpb_Meta_Box_types.php:781 inc/metaboxes/init.php:237
+msgid "Remove"
+msgstr ""
+
+#: inc/metaboxes/helpers/Mpb_Meta_Box_types.php:614
+#: inc/metaboxes/helpers/Mpb_Meta_Box_types.php:648
+msgid "No terms"
+msgstr ""
+
+#: inc/metaboxes/helpers/Mpb_Meta_Box_types.php:687
+#: inc/metaboxes/helpers/Mpb_Meta_Box_types.php:741
+msgid "Add or Upload File"
+msgstr ""
+
+#: inc/metaboxes/helpers/Mpb_Meta_Box_types.php:708
+#: inc/metaboxes/helpers/Mpb_Meta_Box_types.php:773 inc/metaboxes/init.php:236
+msgid "Remove Image"
+msgstr ""
+
+#: inc/metaboxes/helpers/Mpb_Meta_Box_types.php:719
+#: inc/metaboxes/helpers/Mpb_Meta_Box_types.php:781 inc/metaboxes/init.php:238
+msgid "File:"
+msgstr ""
+
+#: inc/metaboxes/helpers/Mpb_Meta_Box_types.php:719
+#: inc/metaboxes/helpers/Mpb_Meta_Box_types.php:781 inc/metaboxes/init.php:239
+msgid "Download"
+msgstr ""
+
+#: inc/metaboxes/init.php:213
+msgid "Clear"
+msgstr ""
+
+#: inc/metaboxes/init.php:214
+msgid "Default"
+msgstr ""
+
+#: inc/metaboxes/init.php:215
+msgid "Select Color"
+msgstr ""
+
+#: inc/metaboxes/init.php:216
+msgid "Current Color"
+msgstr ""
+
+#: inc/metaboxes/init.php:235
+msgid "Use this file"
+msgstr ""
+
+#: inc/metaboxes/init.php:243
+msgid "Select / Deselect All"
+msgstr ""
+
+#: inc/metaboxes/init.php:1134
+msgid "Save"
+msgstr ""
+
+#: inc/metaboxes/metabox-options.php:11
+msgid "Feature Metabox"
+msgstr ""
+
+#: inc/metaboxes/metabox-options.php:20
+msgid "Icon"
+msgstr ""
+
+#: inc/metaboxes/metabox-options.php:21
+msgid "field description (optional)"
+msgstr ""
+
+#: inc/metaboxes/metabox-options.php:28
+msgid "Image Icon"
+msgstr ""
+
+#: inc/metaboxes/metabox-options.php:29
+msgid "Upload an image icon."
+msgstr ""
+
+#: inc/metaboxes/metabox-options.php:35
+msgid "Icon Color"
+msgstr ""
+
+#: inc/metaboxes/metabox-options.php:42
+msgid "Title Link"
+msgstr ""
+
+#: inc/metaboxes/metabox-options.php:49 inc/metaboxes/metabox-options.php:202
+msgid "Target"
+msgstr ""
+
+#: inc/metaboxes/metabox-options.php:53 inc/metaboxes/metabox-options.php:156
+#: inc/metaboxes/metabox-options.php:207 inc/metaboxes/metabox-options.php:248
+#: inc/metaboxes/metabox-options.php:270
+msgid "Blank"
+msgstr ""
+
+#: inc/metaboxes/metabox-options.php:54 inc/metaboxes/metabox-options.php:157
+#: inc/metaboxes/metabox-options.php:208 inc/metaboxes/metabox-options.php:249
+#: inc/metaboxes/metabox-options.php:271
+msgid "Self"
+msgstr ""
+
+#: inc/metaboxes/metabox-options.php:63
+msgid "Testimonial Metabox"
+msgstr ""
+
+#: inc/metaboxes/metabox-options.php:72 inc/metaboxes/metabox-options.php:108
+msgid "Byline"
+msgstr ""
+
+#: inc/metaboxes/metabox-options.php:81 inc/metaboxes/metabox-options.php:101
+msgid "Avatar"
+msgstr ""
+
+#: inc/metaboxes/metabox-options.php:82 inc/metaboxes/metabox-options.php:102
+msgid "Upload avatar."
+msgstr ""
+
+#: inc/metaboxes/metabox-options.php:92
+msgid "Team Metabox"
+msgstr ""
+
+#: inc/metaboxes/metabox-options.php:124
+msgid "Social Icons"
+msgstr ""
+
+#: inc/metaboxes/metabox-options.php:130
+msgid "Generates reusable form icons"
+msgstr ""
+
+#: inc/metaboxes/metabox-options.php:132
+msgid "Icon {#}"
+msgstr ""
+
+#: inc/metaboxes/metabox-options.php:133
+msgid "Add Another Icon"
+msgstr ""
+
+#: inc/metaboxes/metabox-options.php:134
+msgid "Remove Icon"
+msgstr ""
+
+#: inc/metaboxes/metabox-options.php:147
+msgid "Link"
+msgstr ""
+
+#: inc/metaboxes/metabox-options.php:168
+msgid "Client Metabox"
+msgstr ""
+
+#: inc/metaboxes/metabox-options.php:177
+msgid "Logo"
+msgstr ""
+
+#: inc/metaboxes/metabox-options.php:178
+msgid "Upload logo."
+msgstr ""
+
+#: inc/metaboxes/metabox-options.php:188
+msgid "Portfolio Metabox"
+msgstr ""
+
+#: inc/metaboxes/metabox-options.php:196
+msgid "Featured Image"
+msgstr ""
+
+#: inc/metaboxes/metabox-options.php:197 inc/metaboxes/metabox-options.php:227
+msgid "Upload image."
+msgstr ""
+
+#: inc/metaboxes/metabox-options.php:218
+msgid "Slide Metabox"
+msgstr ""
+
+#: inc/metaboxes/metabox-options.php:226
+msgid "Slide Image"
+msgstr ""
+
+#: inc/metaboxes/metabox-options.php:232
+msgid "Left Button Text"
+msgstr ""
+
+#: inc/metaboxes/metabox-options.php:238
+msgid "Left Button Link"
+msgstr ""
+
+#: inc/metaboxes/metabox-options.php:244 inc/metaboxes/metabox-options.php:266
+msgid "Link Target"
+msgstr ""
+
+#: inc/metaboxes/metabox-options.php:254
+msgid "Right Button Text"
+msgstr ""
+
+#: inc/metaboxes/metabox-options.php:260
+msgid "Right Button Link"
+msgstr ""
+
+#: inc/post-type/class-client.php:18 inc/post-type/class-client.php:19
+#: inc/post-type/class-client.php:26
+msgid "Clients"
+msgstr ""
+
+#: inc/post-type/class-client.php:20
+msgid "Add Client"
+msgstr ""
+
+#: inc/post-type/class-client.php:21
+msgid "Add a Client"
+msgstr ""
+
+#: inc/post-type/class-client.php:22
+msgid "Edit Client"
+msgstr ""
+
+#: inc/post-type/class-client.php:23
+msgid "New Client"
+msgstr ""
+
+#: inc/post-type/class-client.php:24
+msgid "Client not found."
+msgstr ""
+
+#: inc/post-type/class-client.php:47 inc/post-type/class-client.php:48
+msgid "Client Groups"
+msgstr ""
+
+#: inc/post-type/class-client.php:49
+msgid "Search Client Group"
+msgstr ""
+
+#: inc/post-type/class-client.php:50
+msgid "All Clients"
+msgstr ""
+
+#: inc/post-type/class-client.php:51
+msgid "Edit Client Group"
+msgstr ""
+
+#: inc/post-type/class-client.php:52
+msgid "Update Client Group"
+msgstr ""
+
+#: inc/post-type/class-client.php:53
+msgid "Add New Client Group"
+msgstr ""
+
+#: inc/post-type/class-client.php:54
+msgid "New Client Group"
+msgstr ""
+
+#: inc/post-type/class-client.php:55 inc/post-type/class-feature.php:53
+#: inc/post-type/class-testimonial.php:55
+msgid "Groups"
+msgstr ""
+
+#: inc/post-type/class-client.php:71 inc/post-type/class-feature.php:68
+#: inc/post-type/class-portfolio.php:71 inc/post-type/class-slider.php:71
+#: inc/post-type/class-team.php:71 inc/post-type/class-testimonial.php:71
+msgid "Title"
+msgstr ""
+
+#: inc/post-type/class-client.php:72 inc/post-type/class-feature.php:69
+#: inc/post-type/class-testimonial.php:72
+msgid "Group"
+msgstr ""
+
+#: inc/post-type/class-client.php:73 inc/post-type/class-feature.php:70
+#: inc/post-type/class-portfolio.php:73 inc/post-type/class-slider.php:73
+#: inc/post-type/class-team.php:73 inc/post-type/class-testimonial.php:73
+msgid "Date"
+msgstr ""
+
+#: inc/post-type/class-client.php:88
+msgid "Unable to get client group(s)"
+msgstr ""
+
+#: inc/post-type/class-feature.php:16 inc/post-type/class-feature.php:17
+#: inc/post-type/class-feature.php:24
+msgid "Features"
+msgstr ""
+
+#: inc/post-type/class-feature.php:18
+msgid "Add Feature"
+msgstr ""
+
+#: inc/post-type/class-feature.php:19
+msgid "Add a Feature"
+msgstr ""
+
+#: inc/post-type/class-feature.php:20
+msgid "Edit Feature"
+msgstr ""
+
+#: inc/post-type/class-feature.php:21
+msgid "New Feature"
+msgstr ""
+
+#: inc/post-type/class-feature.php:22
+msgid "Feature not found."
+msgstr ""
+
+#: inc/post-type/class-feature.php:45 inc/post-type/class-feature.php:46
+msgid "Feature Groups"
+msgstr ""
+
+#: inc/post-type/class-feature.php:47
+msgid "Search Feature Group"
+msgstr ""
+
+#: inc/post-type/class-feature.php:48
+msgid "All Features"
+msgstr ""
+
+#: inc/post-type/class-feature.php:49
+msgid "Edit Feature Group"
+msgstr ""
+
+#: inc/post-type/class-feature.php:50
+msgid "Update Feature Group"
+msgstr ""
+
+#: inc/post-type/class-feature.php:51
+msgid "Add New Feature Group"
+msgstr ""
+
+#: inc/post-type/class-feature.php:52
+msgid "New Feature Group"
+msgstr ""
+
+#: inc/post-type/class-feature.php:85
+msgid "Unable to get feature group(s)"
+msgstr ""
+
+#: inc/post-type/class-portfolio.php:18 inc/post-type/class-portfolio.php:19
+#: inc/post-type/class-portfolio.php:26
+msgid "Portfolios"
+msgstr ""
+
+#: inc/post-type/class-portfolio.php:20
+msgid "Add Portfolio"
+msgstr ""
+
+#: inc/post-type/class-portfolio.php:21
+msgid "Add a Portfolio"
+msgstr ""
+
+#: inc/post-type/class-portfolio.php:22
+msgid "Edit Portfolio"
+msgstr ""
+
+#: inc/post-type/class-portfolio.php:23
+msgid "New Portfolio"
+msgstr ""
+
+#: inc/post-type/class-portfolio.php:24
+msgid "Portfolio not found."
+msgstr ""
+
+#: inc/post-type/class-portfolio.php:47 inc/post-type/class-portfolio.php:48
+msgid "Portfolio Categories"
+msgstr ""
+
+#: inc/post-type/class-portfolio.php:49
+msgid "Search Portfolio Category"
+msgstr ""
+
+#: inc/post-type/class-portfolio.php:50
+msgid "All Portfolios"
+msgstr ""
+
+#: inc/post-type/class-portfolio.php:51
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: inc/post-type/class-portfolio.php:52
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: inc/post-type/class-portfolio.php:53
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: inc/post-type/class-portfolio.php:54
+msgid "New Portfolio Category"
+msgstr ""
+
+#: inc/post-type/class-portfolio.php:55 inc/post-type/class-team.php:47
+#: inc/post-type/class-team.php:48 inc/post-type/class-team.php:55
+#: inc/post-type/class-team.php:72
+msgid "Categories"
+msgstr ""
+
+#: inc/post-type/class-portfolio.php:72
+msgid "Category"
+msgstr ""
+
+#: inc/post-type/class-portfolio.php:88
+msgid "Unable to get portfolio category."
+msgstr ""
+
+#: inc/post-type/class-slider.php:18 inc/post-type/class-slider.php:19
+#: inc/post-type/class-slider.php:26
+msgid "Slides"
+msgstr ""
+
+#: inc/post-type/class-slider.php:20
+msgid "Add Slide"
+msgstr ""
+
+#: inc/post-type/class-slider.php:21
+msgid "Add a Slide"
+msgstr ""
+
+#: inc/post-type/class-slider.php:22
+msgid "Edit Slide"
+msgstr ""
+
+#: inc/post-type/class-slider.php:23
+msgid "New Slide"
+msgstr ""
+
+#: inc/post-type/class-slider.php:24
+msgid "Slide not found."
+msgstr ""
+
+#: inc/post-type/class-slider.php:47 inc/post-type/class-slider.php:48
+#: inc/post-type/class-slider.php:55 inc/post-type/class-slider.php:72
+msgid "Slider"
+msgstr ""
+
+#: inc/post-type/class-slider.php:49
+msgid "Search Slider"
+msgstr ""
+
+#: inc/post-type/class-slider.php:50
+msgid "All Slider"
+msgstr ""
+
+#: inc/post-type/class-slider.php:51
+msgid "Edit Slider"
+msgstr ""
+
+#: inc/post-type/class-slider.php:52
+msgid "Update Slider"
+msgstr ""
+
+#: inc/post-type/class-slider.php:53
+msgid "Add New Slider"
+msgstr ""
+
+#: inc/post-type/class-slider.php:54
+msgid "New Slider"
+msgstr ""
+
+#: inc/post-type/class-slider.php:88
+msgid "Unable to get slider"
+msgstr ""
+
+#: inc/post-type/class-team.php:18 inc/post-type/class-team.php:19
+#: inc/post-type/class-team.php:26
+msgid "Team"
+msgstr ""
+
+#: inc/post-type/class-team.php:20
+msgid "Add Member"
+msgstr ""
+
+#: inc/post-type/class-team.php:21
+msgid "Add a Member"
+msgstr ""
+
+#: inc/post-type/class-team.php:22
+msgid "Edit Member"
+msgstr ""
+
+#: inc/post-type/class-team.php:23
+msgid "New Member"
+msgstr ""
+
+#: inc/post-type/class-team.php:24
+msgid "Member not found."
+msgstr ""
+
+#: inc/post-type/class-team.php:49
+msgid "Search Category"
+msgstr ""
+
+#: inc/post-type/class-team.php:50
+msgid "All Categories"
+msgstr ""
+
+#: inc/post-type/class-team.php:51
+msgid "Edit Category"
+msgstr ""
+
+#: inc/post-type/class-team.php:52
+msgid "Update Category"
+msgstr ""
+
+#: inc/post-type/class-team.php:53
+msgid "Add New Category"
+msgstr ""
+
+#: inc/post-type/class-team.php:54
+msgid "New Category"
+msgstr ""
+
+#: inc/post-type/class-team.php:88
+msgid "Unable to get team group(s)"
+msgstr ""
+
+#: inc/post-type/class-testimonial.php:18
+#: inc/post-type/class-testimonial.php:19
+#: inc/post-type/class-testimonial.php:26
+msgid "Testimonials"
+msgstr ""
+
+#: inc/post-type/class-testimonial.php:20
+msgid "Add Testimonial"
+msgstr ""
+
+#: inc/post-type/class-testimonial.php:21
+msgid "Add a Testimonial"
+msgstr ""
+
+#: inc/post-type/class-testimonial.php:22
+msgid "Edit Testimonial"
+msgstr ""
+
+#: inc/post-type/class-testimonial.php:23
+msgid "New Testimonial"
+msgstr ""
+
+#: inc/post-type/class-testimonial.php:24
+msgid "Testimonial not found."
+msgstr ""
+
+#: inc/post-type/class-testimonial.php:47
+#: inc/post-type/class-testimonial.php:48
+msgid "Testimonial Groups"
+msgstr ""
+
+#: inc/post-type/class-testimonial.php:49
+msgid "Search Testimonial Group"
+msgstr ""
+
+#: inc/post-type/class-testimonial.php:50
+msgid "All Testimonials"
+msgstr ""
+
+#: inc/post-type/class-testimonial.php:51
+msgid "Edit Testimonial Group"
+msgstr ""
+
+#: inc/post-type/class-testimonial.php:52
+msgid "Update Testimonial Group"
+msgstr ""
+
+#: inc/post-type/class-testimonial.php:53
+msgid "Add New Testimonial Group"
+msgstr ""
+
+#: inc/post-type/class-testimonial.php:54
+msgid "New Testimonial Group"
+msgstr ""
+
+#: inc/post-type/class-testimonial.php:88
+msgid "Unable to get testimonial group(s)"
+msgstr ""
